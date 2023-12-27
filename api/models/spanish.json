@@ -1,0 +1,124 @@
+[
+  {
+    "_id": {
+      "$oid": "62f71d877824c682ccce7998"
+    },
+    "question": "Hablé con ____.",
+    "question_id": 1,
+    "answer": "ella",
+    "options": {
+      "1": "ella",
+      "2": "elle"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62f71d877824c682ccce7999"
+    },
+    "question": "¿De dónde ____ vienes?",
+    "question_id": 2,
+    "answer": "vienes",
+    "options": {
+      "1": "vienes",
+      "2": "eres"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62f71d877824c682ccce799a"
+    },
+    "question": "¿A qué hora se ____ levanta ella?",
+    "question_id": 3,
+    "answer": "levanta",
+    "options": {
+      "1": "levanta",
+      "2": "levante"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62f71d877824c682ccce799b"
+    },
+    "question": "¿Dónde ____ vive él?",
+    "question_id": 4,
+    "answer": "vive",
+    "options": {
+      "1": "vive",
+      "2": "vivere"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62f71d877824c682ccce799c"
+    },
+    "question": "No me ____ gusta esta película.",
+    "question_id": 5,
+    "answer": "gusta",
+    "options": {
+      "1": "gusta",
+      "2": "divierte"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64579cbc008f2391444da43a"
+    },
+    "question": "Voy a verla a las ____ tres.",
+    "question_id": 6,
+    "answer": "las",
+    "options": {
+      "1": "en",
+      "2": "a las",
+      "3": "en el"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64579cbc008f2391444da43b"
+    },
+    "question": "La Pascua es en ____ marzo este año.",
+    "question_id": 7,
+    "answer": "en",
+    "options": {
+      "1": "en",
+      "2": "a",
+      "3": "en el"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64579cbc008f2391444da43c"
+    },
+    "question": "Ella está ____ trabajando todo el día hoy.",
+    "question_id": 8,
+    "answer": "en el",
+    "options": {
+      "1": "en el",
+      "2": "en ele"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65579cbc008f2391444da43a"
+    },
+    "question": "Voy ____ a casa en autobús.",
+    "question_id": 9,
+    "answer": "a casa",
+    "options": {
+      "1": "a casa",
+      "2": "a casa de"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65579cbc008f2391444da43b"
+    },
+    "question": "¿Te gusta?",
+    "question_id": 10,
+    "answer": "Sí, me gusta.",
+    "options": {
+      "1": "Sí, me gustav.",
+      "2": "Sí, me gusta."
+    }
+  }
+]  

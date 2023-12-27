@@ -1,0 +1,124 @@
+[
+  {
+    "_id": {
+      "$oid": "62f71d877824c682ccce7998"
+    },
+    "question": "J'ai parlé à ____.",
+    "question_id": 1,
+    "answer": "elle",
+    "options": {
+      "1": "elle",
+      "2": "elles"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62f71d877824c682ccce7999"
+    },
+    "question": "D'où ____ venez-vous?",
+    "question_id": 2,
+    "answer": "venez-vous",
+    "options": {
+      "1": "venez-vous",
+      "2": "êtes-vous"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62f71d877824c682ccce799a"
+    },
+    "question": "À quelle heure se ___-elle?",
+    "question_id": 3,
+    "answer": "lève",
+    "options": {
+      "1": "lève",
+      "2": "lève-t-elle"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62f71d877824c682ccce799b"
+    },
+    "question": "Où ___-il?",
+    "question_id": 4,
+    "answer": "habite-t-il",
+    "options": {
+      "1": "habite",
+      "2": "habite-t-il"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62f71d877824c682ccce799c"
+    },
+    "question": "Je n'aime pas ____ ce film.",
+    "question_id": 5,
+    "answer": "aime",
+    "options": {
+      "1": "aime",
+      "2": "apprécie"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64579cbc008f2391444da43a"
+    },
+    "question": "Je la vois ____ trois heures.",
+    "question_id": 6,
+    "answer": "à",
+    "options": {
+      "1": "à",
+      "2": "en",
+      "3": "sur"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64579cbc008f2391444da43b"
+    },
+    "question": "Pâques est ___ mars cette année.",
+    "question_id": 7,
+    "answer": "en",
+    "options": {
+      "1": "en",
+      "2": "à",
+      "3": "le"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64579cbc008f2391444da43c"
+    },
+    "question": "Elle est ____ travail toute la journée aujourd'hui.",
+    "question_id": 8,
+    "answer": "au",
+    "options": {
+      "1": "au",
+      "2": "sur"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65579cbc008f2391444da43a"
+    },
+    "question": "Je rentre ___ en bus.",
+    "question_id": 9,
+    "answer": "à la maison",
+    "options": {
+      "1": "à la maison",
+      "2": "à la maisons"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65579cbc008f2391444da43b"
+    },
+    "question": "Tu l'aimes?",
+    "question_id": 10,
+    "answer": "Oui, j'aime.",
+    "options": {
+      "1": "Oui, j'aime.",
+      "2": "Oui, je l'aime."
+    }
+  }  
+]
