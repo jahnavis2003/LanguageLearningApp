@@ -2,7 +2,7 @@
 A language learning website
 
 note:
-The api folder contains the database and apis used in the website
+The api folder contains the database and apis used in the website,
 The zip folder contains the required files to run the website.
 
 steps to get the website up and running:
